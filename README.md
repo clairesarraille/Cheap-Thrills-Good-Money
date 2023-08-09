@@ -1,4 +1,4 @@
-# DSC-Phase2-Project2
+# Cheap Thrills, Good Money: Risk Modeling for Movie Production Investment
 
 **Authors**: Claire Sarraille, Sam Whitehurst & Nick Tjandra
 
